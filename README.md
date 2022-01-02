@@ -1,1 +1,4 @@
 # varsema
+me
+da
+devi
